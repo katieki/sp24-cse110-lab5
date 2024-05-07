@@ -1,4 +1,4 @@
-# Lab 5 - Starter
+# Lab 5 - Katie Kim
 https://katieki.github.io/sp24-cse110-lab5 <br />
 [explore link](https://katieki.github.io/sp24-cse110-lab5/explore.html) <br />
 [expose link](https://katieki.github.io/sp24-cse110-lab5/expose.html) <br /><br />
